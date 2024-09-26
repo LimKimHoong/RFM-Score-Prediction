@@ -1,0 +1,12 @@
+2024-09-24 21:00:05,093 - INFO - Importing datasets starts
+2024-09-24 21:00:08,420 - INFO - Importing datasets ends - Time taken: 3.32620906829834
+2024-09-24 21:00:08,420 - INFO - Preprocessing starts
+2024-09-24 21:00:26,315 - INFO - Preprocessing ends - Time taken: 17.894797801971436
+2024-09-24 21:00:26,316 - INFO - Base modelling starts
+2024-09-24 21:02:26,124 - INFO - Base modelling ends - Time taken: 119.80801486968994
+2024-09-24 21:02:26,125 - INFO - Final modelling starts
+2024-09-24 21:03:22,858 - INFO - Final modelling ends - Time taken: 56.73305082321167
+2024-09-24 21:03:22,858 - INFO - Prediction data processing starts
+2024-09-24 21:29:25,064 - INFO - Prediction data processing ends - Time taken: 1562.2027130126953
+2024-09-24 21:29:25,065 - INFO - Result saving starts
+2024-09-24 21:29:25,154 - INFO - Result saving ends - Time taken: 0.0893251895904541
